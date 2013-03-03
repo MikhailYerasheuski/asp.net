@@ -1,4 +1,4 @@
 asp.net
 =======
 
-ASP.NET 2.0 sample code
+ASP.NET sample code using VB.NET and C#
