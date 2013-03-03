@@ -1,0 +1,15 @@
+ <!--Adyen Payment Processor Options-->
+    <add key="MerchantReference" value="0000001"/>
+    <add key="CurrencyCode" value="GBP"/>
+    <add key="SkinCode" value="1aGK4ksG"/>
+    <add key="MerchantAccount" value="XXXX"/>
+    <add key="ShopperLocale" value="en_GB"/>
+    <add key="HMACSecret" value="hfshk1JGHDG2JDSnhsdg0"/>
+    <add key="FormAction" value="https://test.adyen.com/hpp/select.shtml"/>
+    <!--<add key="FormAction" value="depositfundstarget.aspx"/>-->
+
+
+    <!--***INTEGER ONLY (In Seconds)***-->
+    <add key="SessionValidity" value="360"/>
+    <!--***INTEGER ONLY (In Seconds)***-->
+    <add key="ShipBeforeDateAddition" value="360"/>
